@@ -6,6 +6,11 @@ To commemorate this milestone, I’ve compiled a summary and list of all these c
 
 As I continue to create and share, I encourage others to follow their passions. You never know the lasting impact your work might have.
 
+To learn more about my writing and professional portfolio, visit:
+
+My blog: [https://eric-blue.com/blog/](https://eric-blue.com/blog/)
+
+My professional portfolio: [https://about.eric-blue.com/](https://about.eric-blue.com/)
 
 # Summary of Cited Works
 
@@ -525,4 +530,4 @@ http://www.lucidchat.com</td>
 </tbody>
 </table>
 
-Last updated: 2024-09-08
+Last updated: 2024-09-09
