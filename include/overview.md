@@ -6,6 +6,6 @@ As I continue to create and share, I encourage others to follow their passions. 
 
 To learn more about my writing and professional portfolio, visit:
 
-My blog: [https://eric-blue.com/blog/](https://eric-blue.com/blog/)
+**My blog**: [https://eric-blue.com/blog/](https://eric-blue.com/blog/)
 
-My professional portfolio: [https://about.eric-blue.com/](https://about.eric-blue.com/)
+**My professional portfolio**: [https://about.eric-blue.com/](https://about.eric-blue.com/)
