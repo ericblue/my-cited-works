@@ -17,13 +17,13 @@ To learn more about my writing and professional portfolio, visit:
 
 ## Overview
 
-- **Total Number of Countries:** 11
-- **Total Number of Universities/Organizations:** 24
+- **Total Number of Countries:** 12
+- **Total Number of Universities/Organizations:** 25
 - **Total Number of Different Types of Works:**
-    - Journal Articles: 4
+    - Journal Articles: 5
     - Theses/Dissertations: 8
-    - Research Papers: 4
-    - Books/Book Chapters: 3
+    - Research Papers: 3
+    - Books/Book Chapters: 4
     - Research Projects: 3
     - Conference Papers: 1
     - Art Exhibits: 1
@@ -41,10 +41,11 @@ To learn more about my writing and professional portfolio, visit:
 - **Spain**
 - **Slovenia**
 - **United Arab Emirates**
+- **Venezuela**
 
 ## Types of Works
 - **Books/Book Chapters:**
-    - Includes references in Slovenian and Digital Humanities publications.
+    - Includes references in Slovenian publications, Digital Humanities publications, and a Springer/Palgrave Macmillan book chapter on Quantified Self movements.
 
 - **Theses/Dissertations:**
     - A variety of academic theses from institutions such as Carnegie Mellon University, University of Western Australia, and Universitat Politècnica de Catalunya.
@@ -84,13 +85,14 @@ To learn more about my writing and professional portfolio, visit:
     - "Technological Model for Map Sharing" (2009) - Dissertation
 
 ### Quantified Self / EEG
-- **Number of Works:** 13
+- **Number of Works:** 14
 - **Types of Works:**
     - Theses: 6
-    - Research Papers: 3
+    - Research Papers: 2
+    - Journal Articles: 2
+    - Book Chapters: 1
     - Art Exhibit: 1
     - College Courses: 1
-    - Journal Articles: 1
     - Research Presentation: 1
 - **Examples:**
     - "The Contribution of Sleep and Cortisol Awakening Response to Age-Related Executive Functioning" (2022) - Thesis
@@ -148,6 +150,7 @@ To learn more about my writing and professional portfolio, visit:
 - **St. Petersburg State University / Graduate School of Management** - Russia.
 - **Wiley Books** - Publisher, United States.
 - **MIT** - Massachusetts Institute of Technology, United States.
+- **Universidad Rafael Belloso Chacin (URBE)** - Venezuela.
 
 ## Cited Works
 
@@ -167,20 +170,15 @@ To learn more about my writing and professional portfolio, visit:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Journal of Mathematical Modelling and Applied Computing (Volume No.
-12 Issue No. 1)</td>
+<td>Journal of Mathematical Modelling and Applied Computing (Volume No. 12 Issue No. 1)</td>
 <td>Journal Article</td>
 <td>2024</td>
 <td>Mind Mapping</td>
 <td>Al-Falah University</td>
 <td>Shahnawaz AhmadYahiya Gazi</td>
-<td>Strengthening Collaborative Mind Map Tool To Facilitate Requirement
-Elicitation Process</td>
+<td>Strengthening Collaborative Mind Map Tool To Facilitate Requirement Elicitation Process</td>
 <td>https://www.enrichedpublications.com/ep_admin/jounral/pdf/1710134593.pdf</td>
-<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life
-Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal
-Development. Retrieved from
-http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
+<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal Development. Retrieved from http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
 </tr>
 <tr class="even">
 <td>Global Journal of Operating System and Techniques</td>
@@ -189,18 +187,12 @@ http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-c
 <td>Mind Mapping</td>
 <td>Enriched Publications</td>
 <td>Shahnawaz AhmadYahiya Gazi</td>
-<td>Strengthening Collaborative Mind Map Tool To Facilitate Requirement
-Elicitation Process</td>
+<td>Strengthening Collaborative Mind Map Tool To Facilitate Requirement Elicitation Process</td>
 <td>https://enrichedpublications.com/ep_admin/jounral/pdf/1709977680.pdf</td>
-<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life
-Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal
-Development. Retrieved from
-http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
+<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal Development. Retrieved from http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
 </tr>
 <tr class="odd">
-<td>The Contribution of sleep and cortisol awakening response to
-age-related executive functioning among community dwelling older
-adults</td>
+<td>The Contribution of sleep and cortisol awakening response to age-related executive functioning among community dwelling older adults</td>
 <td>Thesis</td>
 <td>2022</td>
 <td>Quantified Self</td>
@@ -208,13 +200,10 @@ adults</td>
 <td>Denise Parker</td>
 <td>Doctor of Philosophy thesis</td>
 <td>https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/216422134/THESIS_DOCTOR_OF_PHILOSOPHY_PARKER_Denise_2022.pdf</td>
-<td>The Zeo Sleep Manager. Source
-http://eric-blue.com/2011/01/02/zeo-personal-sleep-
-coach-hacking-your-way-to-a-better-nights-sleep/</td>
+<td>The Zeo Sleep Manager. Source http://eric-blue.com/2011/01/02/zeo-personal-sleep- coach-hacking-your-way-to-a-better-nights-sleep/</td>
 </tr>
 <tr class="even">
-<td>Competitor Analysis of the Wearable Fitness Technology Within the
-Personal Trainer Profession in The United States.</td>
+<td>Competitor Analysis of the Wearable Fitness Technology Within the Personal Trainer Profession in The United States.</td>
 <td>Thesis</td>
 <td>2022</td>
 <td>Quantified Self</td>
@@ -225,8 +214,7 @@ Personal Trainer Profession in The United States.</td>
 <td>ActiveOS - https://activeos.com</td>
 </tr>
 <tr class="odd">
-<td>Collaborative Mind Map Tool to Facillitate Requirement Engineering
-(RE)</td>
+<td>Collaborative Mind Map Tool to Facillitate Requirement Engineering (RE)</td>
 <td>Research Project</td>
 <td>2021</td>
 <td>Mind Mapping</td>
@@ -234,15 +222,10 @@ Personal Trainer Profession in The United States.</td>
 <td>Juliana Jaafar</td>
 <td>COMP60990: Research Skills and Professional Issues</td>
 <td>https://studentnet.cs.manchester.ac.uk/resources/library/thesis_abstracts/BkgdReportsMSc09/JaafarJ.pdf</td>
-<td>Eric T. Blue. 2006. Mind Mapping and the Software Development Life
-Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal
-Development. [Online] Eric T. Blue, December 16, 2006.
-http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/.
-[Accessed: March 3, 2009].</td>
+<td>Eric T. Blue. 2006. Mind Mapping and the Software Development Life Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal Development. [Online] Eric T. Blue, December 16, 2006. http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/. [Accessed: March 3, 2009].</td>
 </tr>
 <tr class="even">
-<td>La calidad del software desde la perspectiva del análisis de
-requerimientos</td>
+<td>La calidad del software desde la perspectiva del análisis de requerimientos</td>
 <td>Thesis</td>
 <td>2021</td>
 <td>Mind Mapping</td>
@@ -250,28 +233,31 @@ requerimientos</td>
 <td>Ing. Viviana Sarango</td>
 <td></td>
 <td>http://bibliotecadigital.econ.uba.ar/download/tpos/1502-2045_SarangoV.pdf</td>
-<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life
-Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal
-Development. Retrieved from
-http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
+<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal Development. Retrieved from http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
 </tr>
 <tr class="odd">
-<td>Networks of opinion leaders and heterogeneous organizations: The
-organizational elites of the Quantified Self and Maker Movements on
-Twitter</td>
-<td>Research Paper</td>
-<td>2020</td>
+<td>Transnational Networks of Influence: The Twitter Presence of the Quantified Self and Maker Movements' Organizational Elites</td>
+<td>Book Chapter</td>
+<td>2022</td>
 <td>Quantified Self</td>
-<td>ZeMKI</td>
-<td>Heiko Kirschner, Anne Schmitz &amp; Andreas Hepp</td>
-<td>ZeMKI Working Paper|No. 36</td>
-<td>https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb9/zemki/media/photos/publikationen/working-papers/2020/CoFi_EWP_No-36_Kirschner-Schmitz-Hepp.pdf?fbclid=IwAR1qovaaQd-uuP2Ij0aPnrBOm6W6Ci_s2zTlIGYG2_zgWkfZxexQ2zcGoVI
-https://www.researchgate.net/publication/360765628_Transnational_Networks_of_Influence_The_Twitter_Presence_of_the_Quantified_Self_and_Maker_Movements'_Organizational_Elites</td>
-<td>Analyzed my Twitter posts on the topic of Quantified Self for
-analyzing NETWORKS OF OPINION LEADERS AND HETEROGENEOUS
-ORGANIZATIONS</td>
+<td>ZeMKI / University of Bremen</td>
+<td>Anne Schmitz, Heiko Kirschner &amp; Andreas Hepp</td>
+<td>Published in New Perspectives in Critical Data Studies (Palgrave Macmillan/Springer). Originally ZeMKI Working Paper No. 36 (2020)</td>
+<td>https://link.springer.com/chapter/10.1007/978-3-030-96180-0_3 https://www.researchgate.net/publication/360765628_Transnational_Networks_of_Influence_The_Twitter_Presence_of_the_Quantified_Self_and_Maker_Movements'_Organizational_Elites</td>
+<td>Analyzed my Twitter posts on the topic of Quantified Self for analyzing NETWORKS OF OPINION LEADERS AND HETEROGENEOUS ORGANIZATIONS</td>
 </tr>
 <tr class="even">
+<td>Controlador de Mouse Mediante Ondas Cerebrales para Personas Discapacitadas</td>
+<td>Journal Article</td>
+<td>2020</td>
+<td>Quantified Self / EEG</td>
+<td>Universidad Rafael Belloso Chacin (URBE)</td>
+<td>E. Gallardo and C. Borjas</td>
+<td>REVECITEC (Revista Electronica de Ciencia y Tecnologia)</td>
+<td>https://ojs.urbe.edu/index.php/revecitec/article/view/3255</td>
+<td>Leveraged my work with the Neurosky Brainwave Visualizer - https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
+</tr>
+<tr class="odd">
 <td>Creation and Computation (2018)</td>
 <td>College Course</td>
 <td>2018</td>
@@ -279,26 +265,21 @@ ORGANIZATIONS</td>
 <td>Personal / OCADU.ca Digital Futures</td>
 <td>Nick Alexander</td>
 <td></td>
-<td>http://blog.ocad.ca/wordpress/digf6037-fw201802-01/tag/branwaves/
-https://github.com/npyalex/mindPaint</td>
-<td>Course project inspired by my work with the Neurosky Brainwave
-Visualizer -
-https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
+<td>http://blog.ocad.ca/wordpress/digf6037-fw201802-01/tag/branwaves/ https://github.com/npyalex/mindPaint</td>
+<td>Course project inspired by my work with the Neurosky Brainwave Visualizer - https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>A Review of Recent Trends and Issues in Visualization</td>
 <td>Journal Article</td>
 <td>2016</td>
 <td>Knowledge Management</td>
 <td>IJCSE</td>
 <td>Satish Kumar</td>
-<td>International Journal on Computer Science and Engineering (IJCSE)
-See: https://admissions.ocadu.ca/program/digital-futures</td>
+<td>International Journal on Computer Science and Engineering (IJCSE) See: https://admissions.ocadu.ca/program/digital-futures</td>
 <td>http://www.enggjournals.com/ijcse/doc/IJCSE16-08-03-101.pdf</td>
-<td>Visualization tools used for knowledge management are discussed
-https://eric-blue.com/2009/05/10/15-effective-tools-for-visual-knowledge-management/</td>
+<td>Visualization tools used for knowledge management are discussed https://eric-blue.com/2009/05/10/15-effective-tools-for-visual-knowledge-management/</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Spletna Besedila In Jezik Na Spletu</td>
 <td>Book</td>
 <td>2015</td>
@@ -307,24 +288,20 @@ https://eric-blue.com/2009/05/10/15-effective-tools-for-visual-knowledge-managem
 <td>Mija Michelizza</td>
 <td>Slovenian publication</td>
 <td>https://www.google.com/books/edition/Spletna_besedila_in_jezik_na_spletu/BeayDAAAQBAJ?hl=en&amp;gbpv=0</td>
-<td>Eric Blue - Personal Memex -
-https://eric-blue.com/my-projects/personal-memex/</td>
+<td>Eric Blue - Personal Memex - https://eric-blue.com/my-projects/personal-memex/</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Sistema Brain Computer Interface</td>
 <td>Thesis</td>
 <td>2015</td>
 <td>Quantified Self / EEG</td>
 <td>Universitat Politècnica de Catalunya</td>
 <td>Martín Barraza Juan Ignacio</td>
-<td>Brain Computer Interface system in which, from Mind Wave dispositive
-from Neurosky company, will be sought to control the prototype of a
-human hand.</td>
+<td>Brain Computer Interface system in which, from Mind Wave dispositive from Neurosky company, will be sought to control the prototype of a human hand.</td>
 <td>https://upcommons.upc.edu/handle/2117/78057?show=full</td>
-<td>Leveraged my work with the Neurosky Brainwave Visualizer -
-https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
+<td>Leveraged my work with the Neurosky Brainwave Visualizer - https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Digital Humanities : BigDigitalScience</td>
 <td>College Course</td>
 <td>2014</td>
@@ -333,12 +310,10 @@ https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
 <td>Dr. Morgan</td>
 <td>ENGL 2930: Intro to the Digital Humanities</td>
 <td>https://web.archive.org/web/20200809053647/http://erhetoric.org/dh/wikka.php?wakka=BigDigitalScience</td>
-<td>Referenced my Personal Memex project
-http://eric-blue.com/my-projects/personal-memex/</td>
+<td>Referenced my Personal Memex project http://eric-blue.com/my-projects/personal-memex/</td>
 </tr>
-<tr class="odd">
-<td>Überprüfung der Eignung von Elektroenzephalografiedaten eines
-Brain-Computer-Interfaces zur computergestützten Authentifizierung</td>
+<tr class="even">
+<td>Überprüfung der Eignung von Elektroenzephalografiedaten eines Brain-Computer-Interfaces zur computergestützten Authentifizierung</td>
 <td>Thesis</td>
 <td>2014</td>
 <td>Quantified Self / EEG</td>
@@ -346,14 +321,10 @@ Brain-Computer-Interfaces zur computergestützten Authentifizierung</td>
 <td>Timo Briddigkeit</td>
 <td></td>
 <td>https://reposit.haw-hamburg.de/bitstream/20.500.12738/6724/1/Bachelorarbeit.pdf</td>
-<td>Leveraged my work with the Neurosky Brainwave Visualizer -
-https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/ and
-MindStream - https://github.com/ericblue/MindStream</td>
+<td>Leveraged my work with the Neurosky Brainwave Visualizer - https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/ and MindStream - https://github.com/ericblue/MindStream</td>
 </tr>
-<tr class="even">
-<td>Multimodal Interactive System Design in the Scope of Performing Arts
-- Creating a Hybrid Sensing Robot for Ubiquitous Human Machine
-Interaction</td>
+<tr class="odd">
+<td>Multimodal Interactive System Design in the Scope of Performing Arts - Creating a Hybrid Sensing Robot for Ubiquitous Human Machine Interaction</td>
 <td>Thesis</td>
 <td>2014</td>
 <td>Quantified Self / EEG</td>
@@ -361,12 +332,10 @@ Interaction</td>
 <td>Michael Shade</td>
 <td></td>
 <td>https://publications.lib.chalmers.se/records/fulltext/226492/226492.pdf</td>
-<td>Leveraged my work with the Neurosky Brainwave Visualizer -
-https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
+<td>Leveraged my work with the Neurosky Brainwave Visualizer - https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
 </tr>
-<tr class="odd">
-<td>Processing Load And Biopotentials: An Evaluation Of A Consumer
-Electroencephalogram (EEG)</td>
+<tr class="even">
+<td>Processing Load And Biopotentials: An Evaluation Of A Consumer Electroencephalogram (EEG)</td>
 <td>Research Presentation</td>
 <td>2014</td>
 <td>Quantified Self / EEG</td>
@@ -374,10 +343,9 @@ Electroencephalogram (EEG)</td>
 <td>Kristen Bishop</td>
 <td></td>
 <td>https://www.andrews.edu/services/honors/resources/kristen-bishop-presentation.pdf</td>
-<td>Leveraged my work with MindStream -
-https://github.com/ericblue/MindStream</td>
+<td>Leveraged my work with MindStream - https://github.com/ericblue/MindStream</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Eunoia (Art Exhibit)</td>
 <td>Art Exhibit</td>
 <td>2013</td>
@@ -386,12 +354,10 @@ https://github.com/ericblue/MindStream</td>
 <td>Lisa Park</td>
 <td></td>
 <td>https://www.thelisapark.com/work/eunoia</td>
-<td>Leveraged my work with the Neurosky Brainwave Visualizer -
-https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
+<td>Leveraged my work with the Neurosky Brainwave Visualizer - https://eric-blue.com/2011/07/13/neurosky-brainwave-visualizer/</td>
 </tr>
-<tr class="odd">
-<td>Modeling the Induced Physiological Response to Local Musical
-Features via Input-Output Hidden Markov Models</td>
+<tr class="even">
+<td>Modeling the Induced Physiological Response to Local Musical Features via Input-Output Hidden Markov Models</td>
 <td>Research Paper</td>
 <td>2013</td>
 <td>Quantified Self / EEG</td>
@@ -399,13 +365,10 @@ Features via Input-Output Hidden Markov Models</td>
 <td>David Rector</td>
 <td>Winter2013 final report for CS174</td>
 <td>https://www.cs.dartmouth.edu/~lorenzo/teaching/cs174/Archive/Winter2013/Projects/FinalReportWriteup/david.w.rector.gr.pdf</td>
-<td>Blue, Eric. (2011) Neurosky EEG Data Streamer [Computer program].
-Available at
-http://ericblue.com/2011/07/24/mindstream-neurosky-eeg-data-streamer/.</td>
+<td>Blue, Eric. (2011) Neurosky EEG Data Streamer [Computer program]. Available at http://ericblue.com/2011/07/24/mindstream-neurosky-eeg-data-streamer/.</td>
 </tr>
-<tr class="even">
-<td>Mobilelogging: Assessing Smartphone Sensors for Monitoring Sleep
-Behaviour</td>
+<tr class="odd">
+<td>Mobilelogging: Assessing Smartphone Sensors for Monitoring Sleep Behaviour</td>
 <td>Research Paper</td>
 <td>2013</td>
 <td>Quantified Self</td>
@@ -413,12 +376,10 @@ Behaviour</td>
 <td>Sven Andre Mayer</td>
 <td>Student Research Project Nr. 2428</td>
 <td>https://www2.informatik.uni-stuttgart.de/bibliothek/ftp/medoc.ustuttgart_fi/STUD-2428/STUD-2428.pdf</td>
-<td>Referenced my work [6] Jawbone up api.
-http://eric-blue.com/projects/up-api/.</td>
+<td>Referenced my work [6] Jawbone up api. http://eric-blue.com/projects/up-api/.</td>
 </tr>
-<tr class="odd">
-<td>Privacy &amp; the Personal Prospectus: Should We Introduce Privacy
-Agents or Regulate Privacy Intermediaries?</td>
+<tr class="even">
+<td>Privacy &amp; the Personal Prospectus: Should We Introduce Privacy Agents or Regulate Privacy Intermediaries?</td>
 <td>Law Review Article</td>
 <td>2012</td>
 <td>Quantified Self</td>
@@ -426,14 +387,10 @@ Agents or Regulate Privacy Intermediaries?</td>
 <td>Scott R. Peppet</td>
 <td></td>
 <td>https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1290&amp;context=faculty-articles</td>
-<td>Eric Blue, Fitbit Hacks: Toufficial API &amp; Tools To Get the Most
-Out of Your Fitbit, EIRC BLUE'S BLOG,
-http://eric-blue.com/projects/fitbit (last visited Aug. 12, 2012)
-(explaining various Fitbit hacking techniques).</td>
+<td>Eric Blue, Fitbit Hacks: Toufficial API &amp; Tools To Get the Most Out of Your Fitbit, EIRC BLUE'S BLOG, http://eric-blue.com/projects/fitbit (last visited Aug. 12, 2012) (explaining various Fitbit hacking techniques).</td>
 </tr>
-<tr class="even">
-<td>Personal Informatics and Context: Using Context to Reveal Factors
-that Affect Behavior</td>
+<tr class="odd">
+<td>Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior</td>
 <td>Dissertation</td>
 <td>2011</td>
 <td>Quantified Self</td>
@@ -441,42 +398,31 @@ that Affect Behavior</td>
 <td>Ian Anthony Rosas Li</td>
 <td></td>
 <td>https://www.ianli.com/publications/2011-ianli-dissertation.pdf</td>
-<td>Referenced my work -
-https://github.com/ericblue/Perl-FitBit-API</td>
+<td>Referenced my work - https://github.com/ericblue/Perl-FitBit-API</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Historični seminar 10</td>
 <td>Book</td>
 <td>2012</td>
 <td>Knowledge Managment</td>
-<td>ZRC SAZU - Scientific Research Center of the Slovenian Academy of
-Sciences and Arts</td>
+<td>ZRC SAZU - Scientific Research Center of the Slovenian Academy of Sciences and Arts</td>
 <td>Katarina Šter</td>
-<td>ZRC SAZU Publishing House See:
-https://www.youtube.com/@zrc-sazu/about and
-https://zalozba.zrc-sazu.si/sl</td>
+<td>ZRC SAZU Publishing House See: https://www.youtube.com/@zrc-sazu/about and https://zalozba.zrc-sazu.si/sl</td>
 <td>https://www.google.com/books/edition/Histori%C3%A8ni_seminar_10/HrizKUHOmU0C?hl=en&amp;gbpv=0&amp;fbclid=IwAR0bcd7Hh4RrdXTXPWAqSsVyc2XKUjgbnvq0CayGaP_dNkSkizAF8mKukbo</td>
-<td>Eric Blue - Personal Memex -
-https://eric-blue.com/my-projects/personal-memex/</td>
+<td>Eric Blue - Personal Memex - https://eric-blue.com/my-projects/personal-memex/</td>
 </tr>
-<tr class="even">
-<td>Collaborative Mind Map Tool To Facilitate Requirement
-Elicitation</td>
+<tr class="odd">
+<td>Collaborative Mind Map Tool To Facilitate Requirement Elicitation</td>
 <td>Conference Paper</td>
 <td>2011</td>
 <td>Mind Mapping</td>
 <td>International Conference on Computing and Informatics, ICOCI</td>
-<td>Juliana Jaafar1, Mislina Atan2 and Nazatul Naquiah Ahba Abdul
-Hamid3</td>
-<td>Proceedings of the 3rd International Conference on Computing and
-Informatics, ICOCI</td>
+<td>Juliana Jaafar1, Mislina Atan2 and Nazatul Naquiah Ahba Abdul Hamid3</td>
+<td>Proceedings of the 3rd International Conference on Computing and Informatics, ICOCI</td>
 <td>https://core.ac.uk/download/pdf/42980836.pdf</td>
-<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life
-Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal
-Development. Retrieved from
-http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
+<td>Eric T. Blue. (2006). Mind Mapping and the Software Development Life Cycle. Eric's Blue Blog : Technology, Philosophy, and Personal Development. Retrieved from http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-cycle/</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Knowledge Engineering - WORKBOOK</td>
 <td>College Course</td>
 <td>2011</td>
@@ -485,10 +431,9 @@ http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-c
 <td>Tatiana A. Gavrilova, Sofya V. Zhukova</td>
 <td></td>
 <td>https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=82beb04b693feea3957bea5d8f5eac113d96cfb0</td>
-<td>MindMap Viewer - https://eric-blue.com/projects/mindmapviewer/
-(https://eric-blue.com/2007/11/25/mindmap-viewer-share-and-embed-mind-manager-maps-today/)</td>
+<td>MindMap Viewer - https://eric-blue.com/projects/mindmapviewer/ (https://eric-blue.com/2007/11/25/mindmap-viewer-share-and-embed-mind-manager-maps-today/)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Technological Model for Map Sharing</td>
 <td>Dissertation</td>
 <td>2009</td>
@@ -497,11 +442,9 @@ http://eric-blue.com/2006/12/16/mind-mapping-and-the-software-development-life-c
 <td>Andy Coverdale</td>
 <td></td>
 <td>https://web.archive.org/web/20210201205738/https://sites.google.com/site/andycoverdale/texts/technological-models-for-map-sharing</td>
-<td>Blue, E. (2007). A Call To Action: The Need For A Common Mind Map
-File Format. Blog post. 24 March.
-http://eric-blue.com/2007/03/24/a-call-to-action-the-need-for-a-common-mind-map-file-format/</td>
+<td>Blue, E. (2007). A Call To Action: The Need For A Common Mind Map File Format. Blog post. 24 March. http://eric-blue.com/2007/03/24/a-call-to-action-the-need-for-a-common-mind-map-file-format/</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>E-learning Tools and Technologies</td>
 <td>Book</td>
 <td>2003</td>
@@ -510,24 +453,20 @@ http://eric-blue.com/2007/03/24/a-call-to-action-the-need-for-a-common-mind-map-
 <td>William Horton Katherine Horton</td>
 <td>Wiley Books</td>
 <td>https://www.google.com/books/edition/E_learning_Tools_and_Technologies/fyDS2crqAbgC?hl=en&amp;gbpv=1&amp;dq=%22lucid+chat%22+lucidchat.com&amp;pg=PA224&amp;printsec=frontcover</td>
-<td>Lucid Chat - The Future of Web Based Chat
-http://www.lucidchat.com</td>
+<td>Lucid Chat - The Future of Web Based Chat http://www.lucidchat.com</td>
 </tr>
-<tr class="even">
-<td>Chat Decision Assistant: An Online Distance Collaborative Decision
-Tool</td>
+<tr class="odd">
+<td>Chat Decision Assistant: An Online Distance Collaborative Decision Tool</td>
 <td>Thesis</td>
 <td>2002</td>
 <td>Chat</td>
 <td>MIT</td>
 <td>Shastri Stefan J. Sandy</td>
-<td>Submitted to the Department of Electrical Engineering and Computer
-Science</td>
+<td>Submitted to the Department of Electrical Engineering and Computer Science</td>
 <td>https://dspace.mit.edu/bitstream/handle/1721.1/87429/53708681-MIT.pdf?sequence=2</td>
-<td>Lucid Chat - The Future of Web Based Chat
-http://www.lucidchat.com</td>
+<td>Lucid Chat - The Future of Web Based Chat http://www.lucidchat.com</td>
 </tr>
 </tbody>
 </table>
 
-Last updated: 2024-09-09
+Last updated: 2026-03-13

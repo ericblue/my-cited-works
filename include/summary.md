@@ -1,13 +1,13 @@
 
 ## Overview
 
-- **Total Number of Countries:** 11
-- **Total Number of Universities/Organizations:** 24
+- **Total Number of Countries:** 12
+- **Total Number of Universities/Organizations:** 25
 - **Total Number of Different Types of Works:**
-    - Journal Articles: 4
+    - Journal Articles: 5
     - Theses/Dissertations: 8
-    - Research Papers: 4
-    - Books/Book Chapters: 3
+    - Research Papers: 3
+    - Books/Book Chapters: 4
     - Research Projects: 3
     - Conference Papers: 1
     - Art Exhibits: 1
@@ -25,10 +25,11 @@
 - **Spain**
 - **Slovenia**
 - **United Arab Emirates**
+- **Venezuela**
 
 ## Types of Works
 - **Books/Book Chapters:**
-    - Includes references in Slovenian and Digital Humanities publications.
+    - Includes references in Slovenian publications, Digital Humanities publications, and a Springer/Palgrave Macmillan book chapter on Quantified Self movements.
 
 - **Theses/Dissertations:**
     - A variety of academic theses from institutions such as Carnegie Mellon University, University of Western Australia, and Universitat Politècnica de Catalunya.
@@ -68,13 +69,14 @@
     - "Technological Model for Map Sharing" (2009) - Dissertation
 
 ### Quantified Self / EEG
-- **Number of Works:** 13
+- **Number of Works:** 14
 - **Types of Works:**
     - Theses: 6
-    - Research Papers: 3
+    - Research Papers: 2
+    - Journal Articles: 2
+    - Book Chapters: 1
     - Art Exhibit: 1
     - College Courses: 1
-    - Journal Articles: 1
     - Research Presentation: 1
 - **Examples:**
     - "The Contribution of Sleep and Cortisol Awakening Response to Age-Related Executive Functioning" (2022) - Thesis
@@ -132,3 +134,4 @@
 - **St. Petersburg State University / Graduate School of Management** - Russia.
 - **Wiley Books** - Publisher, United States.
 - **MIT** - Massachusetts Institute of Technology, United States.
+- **Universidad Rafael Belloso Chacin (URBE)** - Venezuela.
